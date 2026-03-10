@@ -1,0 +1,15 @@
+product,brand,expected_grade,expected_score_min,expected_score_max
+Wild Alaskan Salmon Omega-3 1000mg,Nordic Naturals,Good,75,100
+Frosted Sugar Flakes Cereal,Kellogg's,Bad,0,35
+Turmeric Curcumin with BioPerine,BioSchwartz,Good,70,100
+Diet Soda with Aspartame,Coca-Cola,Bad,0,30
+Magnesium Glycinate 400mg,Doctor's Best,Good,75,100
+Skittles Rainbow Candy,Mars,Bad,0,25
+Vitamin B-Complex with B12,Thorne,Good,70,95
+Doritos Nacho Cheese,Frito-Lay,Bad,0,35
+Extra Virgin Olive Oil,California Olive Ranch,Good,65,90
+Probiotic 50 Billion CFU,Garden of Life,Good,70,95
+Energy Drink with Artificial Colors,Monster,Bad,0,30
+Walnuts Raw Unsalted,Kirkland,Good,75,100
+Protein Bar with Sucralose,Quest Nutrition,Neutral,35,65
+Vitamin D3 5000 IU,NOW Foods,Good,75,95

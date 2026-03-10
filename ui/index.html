@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🧠 Brain Health Nutrition Rater</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f1117;
+      color: #e0e0e0;
+      min-height: 100vh;
+    }
+    header {
+      background: linear-gradient(135deg, #1a1f2e, #2d3561);
+      padding: 24px 40px;
+      border-bottom: 1px solid #2a2f45;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    header h1 { font-size: 24px; color: #fff; }
+    header p { font-size: 13px; color: #8892b0; margin-top: 4px; }
+    .container { max-width: 900px; margin: 40px auto; padding: 0 24px; }
+
+    /* Search Card */
+    .search-card {
+      background: #1a1f2e;
+      border: 1px solid #2a2f45;
+      border-radius: 12px;
+      padding: 28px;
+      margin-bottom: 28px;
+    }
+    .search-card h2 { font-size: 16px; color: #ccd6f6; margin-bottom: 20px; }
+    .form-row { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+    .form-group label { display: block; font-size: 12px; color: #8892b0; margin-bottom: 6px; }
+    .form-group input {
+      width: 100%;
+      background: #0f1117;
+      border: 1px solid #2a2f45;
+      border-radius: 8px;
+      padding: 10px 14px;
+      color: #e0e0e0;
+      font-size: 14px;
+      outline: none;
+      transition: border 0.2s;
+    }
+    .form-group input:focus { border-color: #64ffda; }
+    .btn-rate {
+      width: 100%;
+      background: linear-gradient(135deg, #64ffda, #00b4d8);
+      color: #0f1117;
+      border: none;
+      border-radius: 8px;
+      padding: 12px;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: opacity 0.2s;
+    }
+    .btn-rate:hover { opacity: 0.85; }
+    .btn-rate:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    /* Result Card */
+    .result-card {
+      background: #1a1f2e;
+      border: 1px solid #2a2f45;
+      border-radius: 12px;
+      padding: 28px;
+      margin-bottom: 28px;
+      display: none;
+    }
+    .result-card.show { display: block; }
+    .result-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 24px;
+    }
+    .result-header h3 { font-size: 18px; color: #fff; }
+    .result-header .brand { font-size: 13px; color: #8892b0; margin-top: 4px; }
+
+    /* Score Gauge */
+    .score-section {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      margin-bottom: 24px;
+    }
+    .gauge-wrap { text-align: center; }
+    .gauge {
+      width: 110px; height: 110px;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 32px; font-weight: 800;
+      border: 6px solid;
+      margin: 0 auto 8px;
+    }
+    .gauge.good { border-color: #64ffda; color: #64ffda; background: rgba(100,255,218,0.08); }
+    .gauge.neutral { border-color: #ffd166; color: #ffd166; background: rgba(255,209,102,0.08); }
+    .gauge.bad { border-color: #ff6b6b; color: #ff6b6b; background: rgba(255,107,107,0.08); }
+    .gauge.notfound { border-color: #8892b0; color: #8892b0; background: rgba(136,146,176,0.08); }
+    .gauge-label { font-size: 12px; color: #8892b0; }
+
+    /* Grade Badge */
+    .grade-badge {
+      display: inline-block;
+      padding: 6px 18px;
+      border-radius: 20px;
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+    .grade-badge.Good { background: rgba(100,255,218,0.15); color: #64ffda; border: 1px solid #64ffda; }
+    .grade-badge.Neutral { background: rgba(255,209,102,0.15); color: #ffd166; border: 1px solid #ffd166; }
+    .grade-badge.Bad { background: rgba(255,107,107,0.15); color: #ff6b6b; border: 1px solid #ff6b6b; }
+    .grade-badge.NOT-FOUND { background: rgba(136,146,176,0.15); color: #8892b0; border: 1px solid #8892b0; }
+
+    .advice-box {
+      background: #0f1117;
+      border-left: 3px solid #64ffda;
+      border-radius: 0 8px 8px 0;
+      padding: 14px 18px;
+      font-size: 14px;
+      line-height: 1.7;
+      color: #ccd6f6;
+    }
+    .advice-box.bad { border-left-color: #ff6b6b; }
+    .advice-box.neutral { border-left-color: #ffd166; }
+    .advice-box.notfound { border-left-color: #8892b0; }
+
+    /* Stats Bar */
+    .score-bar-wrap { flex: 1; }
+    .score-bar-wrap label { font-size: 12px; color: #8892b0; display: block; margin-bottom: 8px; }
+    .score-bar {
+      height: 10px;
+      background: #0f1117;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 6px;
+    }
+    .score-bar-fill {
+      height: 100%;
+      border-radius: 10px;
+      transition: width 0.8s ease;
+    }
+    .score-bar-fill.good { background: linear-gradient(90deg, #64ffda, #00b4d8); }
+    .score-bar-fill.neutral { background: linear-gradient(90deg, #ffd166, #f4a261); }
+    .score-bar-fill.bad { background: linear-gradient(90deg, #ff6b6b, #e63946); }
+
+    /* Loading */
+    .loading {
+      text-align: center;
+      padding: 20px;
+      color: #64ffda;
+      display: none;
+    }
+    .loading.show { display: block; }
+    .spinner {
+      display: inline-block;
+      width: 24px; height: 24px;
+      border: 3px solid #2a2f45;
+      border-top-color: #64ffda;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Sample Products */
+    .samples { margin-bottom: 28px; }
+    .samples h3 { font-size: 13px; color: #8892b0; margin-bottom: 12px; }
+    .sample-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+    .chip {
+      background: #1a1f2e;
+      border: 1px solid #2a2f45;
+      border-radius: 20px;
+      padding: 6px 14px;
+      font-size: 12px;
+      cursor: pointer;
+      transition: all 0.2s;
+      color: #ccd6f6;
+    }
+    .chip:hover { border-color: #64ffda; color: #64ffda; }
+
+    /* History */
+    .history-card {
+      background: #1a1f2e;
+      border: 1px solid #2a2f45;
+      border-radius: 12px;
+      padding: 24px;
+    }
+    .history-card h3 { font-size: 15px; color: #ccd6f6; margin-bottom: 16px; }
+    .history-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    .history-table th {
+      text-align: left; padding: 8px 12px;
+      color: #8892b0; border-bottom: 1px solid #2a2f45;
+      font-weight: 600;
+    }
+    .history-table td { padding: 10px 12px; border-bottom: 1px solid #1a1f2e; }
+    .history-table tr:hover td { background: #0f1117; }
+    .empty-history { text-align: center; color: #8892b0; padding: 20px; font-size: 13px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>🧠 Brain Health Nutrition Rater</h1>
+    <p>Powered by RAG + GPT-4 • Dr. Amen / Bright Minds Framework</p>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- Sample Products -->
+  <div class="samples">
+    <h3>Quick Test — Click a product:</h3>
+    <div class="sample-chips">
+      <span class="chip" onclick="fillSample('Wild Alaskan Salmon Omega-3 1000mg','Nordic Naturals')">🐟 Omega-3 Fish Oil</span>
+      <span class="chip" onclick="fillSample('Frosted Sugar Flakes Cereal','Kellogg\'s')">🥣 Sugar Flakes Cereal</span>
+      <span class="chip" onclick="fillSample('Turmeric Curcumin with BioPerine','BioSchwartz')">🌿 Turmeric Curcumin</span>
+      <span class="chip" onclick="fillSample('Magnesium Glycinate 400mg','Doctor\'s Best')">💊 Magnesium Glycinate</span>
+      <span class="chip" onclick="fillSample('Diet Soda with Aspartame','Coca-Cola')">🥤 Diet Soda</span>
+      <span class="chip" onclick="fillSample('Vitamin D3 5000 IU','NOW Foods')">☀️ Vitamin D3</span>
+      <span class="chip" onclick="fillSample('Skittles Rainbow Candy','Mars')">🍬 Skittles Candy</span>
+      <span class="chip" onclick="fillSample('Walnuts Raw Unsalted','Kirkland')">🥜 Raw Walnuts</span>
+      <span class="chip" onclick="fillSample('Xyz Unknown Supplement 3000','')">❓ Unknown Product</span>
+    </div>
+  </div>
+
+  <!-- Search Card -->
+  <div class="search-card">
+    <h2>Rate a Product for Brain Health</h2>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Product Name *</label>
+        <input type="text" id="productName" placeholder="e.g. Omega-3 Fish Oil 1000mg"/>
+      </div>
+      <div class="form-group">
+        <label>Brand</label>
+        <input type="text" id="brandName" placeholder="e.g. Nordic Naturals"/>
+      </div>
+      <div class="form-group">
+        <label>DB ID</label>
+        <input type="text" id="dbId" placeholder="e.g. 001"/>
+      </div>
+    </div>
+    <button class="btn-rate" id="rateBtn" onclick="rateProduct()">
+      🧠 Rate This Product
+    </button>
+  </div>
+
+  <!-- Loading -->
+  <div class="loading" id="loading">
+    <span class="spinner"></span> Analyzing product for brain health impact...
+  </div>
+
+  <!-- Result Card -->
+  <div class="result-card" id="resultCard">
+    <div class="result-header">
+      <div>
+        <h3 id="resProduct"></h3>
+        <div class="brand" id="resBrand"></div>
+      </div>
+      <span class="grade-badge" id="resBadge"></span>
+    </div>
+    <div class="score-section">
+      <div class="gauge-wrap">
+        <div class="gauge" id="resGauge">--</div>
+        <div class="gauge-label">Brain Health Score</div>
+      </div>
+      <div class="score-bar-wrap">
+        <label>Score out of 100</label>
+        <div class="score-bar">
+          <div class="score-bar-fill" id="resBar" style="width:0%"></div>
+        </div>
+        <div style="font-size:12px;color:#8892b0" id="resScoreText"></div>
+        <div style="margin-top:16px;font-size:12px;color:#8892b0">
+          0 — Bad &nbsp;&nbsp; 40 — Neutral &nbsp;&nbsp; 70 — Good &nbsp;&nbsp; 100 — Excellent
+        </div>
+      </div>
+    </div>
+    <div class="advice-box" id="resAdvice"></div>
+  </div>
+
+  <!-- History -->
+  <div class="history-card">
+    <h3>📋 Rating History</h3>
+    <table class="history-table" id="historyTable">
+      <thead>
+        <tr>
+          <th>Product</th>
+          <th>Brand</th>
+          <th>Score</th>
+          <th>Grade</th>
+        </tr>
+      </thead>
+      <tbody id="historyBody">
+        <tr><td colspan="4" class="empty-history">No ratings yet — rate a product above!</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+<script>
+  const API = 'http://localhost:8000';
+
+  function fillSample(product, brand) {
+    document.getElementById('productName').value = product;
+    document.getElementById('brandName').value = brand;
+    document.getElementById('dbId').value = Math.floor(Math.random()*9000+1000).toString();
+  }
+
+  async function rateProduct() {
+    const product = document.getElementById('productName').value.trim();
+    const brand = document.getElementById('brandName').value.trim();
+    const dbId = document.getElementById('dbId').value.trim() || '000';
+
+    if (!product) { alert('Please enter a product name!'); return; }
+
+    document.getElementById('rateBtn').disabled = true;
+    document.getElementById('loading').classList.add('show');
+    document.getElementById('resultCard').classList.remove('show');
+
+    try {
+      const res = await fetch(`${API}/rate/single`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ db_id: dbId, product, brand })
+      });
+      const data = await res.json();
+      showResult(data);
+      addHistory(data);
+    } catch(e) {
+      alert('API not running! Start the server first:\n.\\.venv\\Scripts\\python.exe -m uvicorn api.main:app --port 8000');
+    } finally {
+      document.getElementById('rateBtn').disabled = false;
+      document.getElementById('loading').classList.remove('show');
+    }
+  }
+
+  function showResult(data) {
+    const grade = data.grade;
+    const score = data.score;
+    const isNotFound = grade === 'NOT FOUND';
+
+    document.getElementById('resProduct').textContent = data.product;
+    document.getElementById('resBrand').textContent = data.brand ? `by ${data.brand}` : 'Unknown Brand';
+
+    const badge = document.getElementById('resBadge');
+    badge.textContent = grade;
+    badge.className = `grade-badge ${grade.replace(' ','-')}`;
+
+    const gauge = document.getElementById('resGauge');
+    gauge.textContent = isNotFound ? '?' : score;
+    gauge.className = `gauge ${isNotFound ? 'notfound' : grade.toLowerCase()}`;
+
+    const bar = document.getElementById('resBar');
+    bar.style.width = isNotFound ? '0%' : `${score}%`;
+    bar.className = `score-bar-fill ${isNotFound ? '' : grade.toLowerCase()}`;
+
+    document.getElementById('resScoreText').textContent = isNotFound
+      ? 'Insufficient data to rate this product'
+      : `Score: ${score}/100`;
+
+    const adviceBox = document.getElementById('resAdvice');
+    adviceBox.textContent = isNotFound
+      ? '⚠️ This product could not be rated. Insufficient information in the knowledgebase.'
+      : data.advice;
+    adviceBox.className = `advice-box ${isNotFound ? 'notfound' : grade.toLowerCase()}`;
+
+    document.getElementById('resultCard').classList.add('show');
+  }
+
+  function addHistory(data) {
+    const tbody = document.getElementById('historyBody');
+    const empty = tbody.querySelector('.empty-history');
+    if (empty) empty.parentElement.remove();
+
+    const colors = { Good: '#64ffda', Neutral: '#ffd166', Bad: '#ff6b6b', 'NOT FOUND': '#8892b0' };
+    const color = colors[data.grade] || '#8892b0';
+    const row = document.createElement('tr');
+    row.innerHTML = `
+      <td>${data.product}</td>
+      <td style="color:#8892b0">${data.brand || '-'}</td>
+      <td style="font-weight:700;color:${color}">${data.score || '-'}</td>
+      <td><span style="color:${color}">${data.grade}</span></td>
+    `;
+    tbody.insertBefore(row, tbody.firstChild);
+  }
+
+  document.getElementById('productName').addEventListener('keypress', e => {
+    if (e.key === 'Enter') rateProduct();
+  });
+</script>
+</body>
+</html>
