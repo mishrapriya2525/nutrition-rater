@@ -10,10 +10,10 @@ class Settings(BaseSettings):
     llm_temperature: float = 0.0
     
     # Azure OpenAI
-    azure_openai_key: str = "9mAOGrmtMgo11MdksWmH4LuoZuSN8ncLfRAROkoKMST4ZZLd7i5EJQQJ99CCACHYHv6XJ3w3AAAAACOGzkAH"
-    azure_openai_endpoint: str = "https://veena-mmnpxex4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o-mini-2/chat/completions?api-version=2025-01-01-preview"
+    # Azure OpenAI
+    azure_openai_key: str = ""
+    azure_openai_endpoint: str = ""  
     azure_openai_deployment: str = "gpt-4o-mini-2"
-
     # Qdrant
     qdrant_host: str = "localhost"
     qdrant_port: int = 6333
