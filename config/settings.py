@@ -4,7 +4,7 @@ from functools import lru_cache
 
 class Settings(BaseSettings):
     # LLM
-    openai_api_key: str = "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"
+    openai_api_key: str = ""
     llm_model: str = "gpt-4o-mini"
     llm_max_tokens: int = 512
     llm_temperature: float = 0.0
