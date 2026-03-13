@@ -15,6 +15,7 @@ import io
 import time
 import uuid
 from typing import Optional
+from fastapi.middleware.cors import CORSMiddleware
 
 import redis.asyncio as aioredis
 from fastapi import BackgroundTasks, Depends, FastAPI, HTTPException, Request
@@ -32,6 +33,14 @@ app = FastAPI(
     title="Brain-Health Nutrition Rater API",
     description="RAG-powered nutrition scoring for 2.5M+ products (Dr. Amen / Bright Minds framework)",
     version="1.0.0",
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # ── Shared Redis client ───────────────────────────────────────────────────────

@@ -10,7 +10,7 @@ Output schema: db_id,product,brand,Score,Grade,Advice
 import re
 from typing import Optional
 
-from openai import OpenAI
+from openai import OpenAI, AzureOpenAI
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from config.settings import get_settings
@@ -124,15 +124,10 @@ def validate_and_parse_csv_row(raw: str, expected_db_id: str, expected_product: 
         except ValueError:
             raise CSVValidationError(f"Non-integer score: '{score_raw}'")
 
-        # Advice length check
-        sentences = [s.strip() for s in re.split(r'[.!?]+', advice) if s.strip()]
-        
         # Advice length check - just ensure some content exists
         if len(advice.strip()) < 20:
             raise CSVValidationError(f"Advice too short")
 
-    # Enforce: never invent db_id or product
-    # Allow LLM to normalize slightly but flag major divergence
     return {
         "db_id": expected_db_id,
         "product": expected_product,
@@ -147,7 +142,19 @@ def validate_and_parse_csv_row(raw: str, expected_db_id: str, expected_product: 
 
 class NutritionRater:
     def __init__(self):
-        self.client = OpenAI(api_key=settings.openai_api_key)
+        if settings.azure_openai_key:
+            self.client = AzureOpenAI(
+                azure_endpoint=settings.azure_openai_endpoint,
+                api_key=settings.azure_openai_key,
+                api_version="2025-01-01-preview"
+            )
+            self.model = settings.azure_openai_deployment
+            logger.info("using_azure_openai")
+        else:
+            self.client = OpenAI(api_key=settings.openai_api_key)
+            self.model = settings.llm_model
+            logger.info("using_openai")
+
         self.retriever = HybridRetriever()
         logger.info("rater_initialized")
 
@@ -157,21 +164,21 @@ class NutritionRater:
         reraise=True,
     )
     def _call_llm(self, context: str, db_id: str, product: str, brand: str) -> str:
-        """Call openAI with strict CSV contract. Retries on failure."""
+        """Call LLM with strict CSV contract. Retries on failure."""
         user_prompt = USER_PROMPT_TEMPLATE.format(
             db_id=db_id,
             product=product,
             brand=brand or "",
             context=context if context else "No relevant knowledgebase context found for this product.",
         )
-        
+
         response = self.client.chat.completions.create(
-            model=settings.llm_model,
+            model=self.model,
             max_tokens=settings.llm_max_tokens,
             temperature=settings.llm_temperature,
             messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt},
             ],
         )
         return response.choices[0].message.content.strip()
