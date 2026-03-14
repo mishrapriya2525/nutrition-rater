@@ -136,5 +136,4 @@ nutrition-rater/
 ## 👩‍💻 Author
 
 **Priya Mishra**  
-Power BI Developer + AI/RAG Engineer  
-[GitHub](https://github.com/mishrapriya2525) • [Upwork](#)
+Senior AI Engineer
