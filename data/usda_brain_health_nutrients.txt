@@ -1,0 +1,1668 @@
+Food: SILK Plus Omega-3 DHA, soymilk
+Category: Legumes and Legume Products
+Key Nutrients: Vitamin D (D2 + D3): 1.2UG; Potassium, K: 144MG; Zinc, Zn: 0.25MG; Selenium, Se: 2.3UG; Vitamin D (D2 + D3), International Units: 49.0IU; Total lipid (fat): 2.06G; Carbohydrate, by difference: 3.29G; Energy: 45.0KCAL; Water: 91.1G; Total Sugars: 2.47G; Fiber, total dietary: 0.4G; Iron, Fe: 0.44MG; Magnesium, Mg: 16.0MG; Sodium, Na: 49.0MG; Vitamin A, IU: 412IU
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Peanut butter with omega-3, creamy
+Category: Legumes and Legume Products
+Key Nutrients: Magnesium, Mg: 191MG; Phosphorus, P: 426MG; Sodium, Na: 356MG; Copper, Cu: 0.476MG; Manganese, Mn: 1.85MG; Tocopherol, delta: 0.96MG; Tocotrienol, gamma: 0.19MG; Thiamin: 0.055MG; Riboflavin: 0.087MG; Fatty acids, total trans: 0.037G; Fatty acids, total saturated: 9.69G; SFA 8:0: 0.001G; SFA 12:0: 0.011G; SFA 14:0: 0.046G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Whey, acid, dried
+Category: Dairy and Egg Products
+Key Nutrients: Retinol: 17.0UG; Vitamin A, RAE: 17.0UG; Carotene, beta: 1.0UG; Folate, food: 33.0UG; Total Sugars: 73.4G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Whey, acid, fluid
+Category: Dairy and Egg Products
+Key Nutrients: Total Sugars: 5.12G; Vitamin A, IU: 7.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Energy: 197kJ; Total lipid (fat): 0.1G; Carbohydrate, by difference: 11.5G; Energy: 47.0KCAL; Water: 87.9G; Calcium, Ca: 6.0MG; Potassium, K: 126MG; Zinc, Zn: 0.04MG; SFA 16:0: 0.016G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Energy: 197kJ; Choline, total: 1.8MG; Betaine: 0.1MG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Applesauce, canned, unsweetened, with added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Copper, Cu: 0.027MG; Manganese, Mn: 0.025MG; Fiber, total dietary: 1.1G; Iron, Fe: 0.23MG; Magnesium, Mg: 3.0MG; Phosphorus, P: 5.0MG; Thiamin: 0.026MG; Riboflavin: 0.03MG; Folate, total: 3.0UG; Vitamin K (phylloquinone): 0.5UG; Folate, food: 3.0UG; Protein: 0.17G; Ash: 0.24G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Apricot nectar, canned, with added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Vitamin K (phylloquinone): 1.2UG; Choline, total: 1.0MG; Folate, DFE: 1.0UG; Folate, food: 1.0UG; Energy: 234kJ; Folate, total: 1.0UG; Magnesium, Mg: 5.0MG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Guava nectar, canned, with added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Carbohydrate, by difference: 16.2G; Energy: 63.0KCAL; Sucrose: 0.07G; Glucose: 5.65G; Maltose: 1.47G; Water: 83.5G; Total Sugars: 13.0G; Calcium, Ca: 8.0MG; Potassium, K: 39.0MG; Fatty acids, total monounsaturated: 0.02G; Fatty acids, total polyunsaturated: 0.01G; Niacin: 0.17MG; Pantothenic acid: 0.08MG; Vitamin C, total ascorbic acid: 21.1MG; Ash: 0.09G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Milk substitutes, fluid, with lauric acid oil
+Category: Dairy and Egg Products
+Key Nutrients: Energy: 257kJ; Protein: 1.75G; Ash: 0.5G; Iron, Fe: 0.39MG; Magnesium, Mg: 6.0MG; Phosphorus, P: 74.0MG; Sodium, Na: 78.0MG; Copper, Cu: 0.051MG; Manganese, Mn: 0.097MG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Milk, filled, fluid, with lauric acid oil
+Category: Dairy and Egg Products
+Key Nutrients: Total Sugars: 4.74G; Vitamin E (alpha-tocopherol): 0.13MG; Vitamin K (phylloquinone): 0.8UG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Peach nectar, canned, with added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Folate, DFE: 1.0UG; SFA 4:0: 0.026G; SFA 10:0: 0.026G; Total lipid (fat): 0.51G; Carbohydrate, by difference: 11.9G; Energy: 50.0KCAL; Sucrose: 0.55G; Glucose: 5.23G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Pear nectar, canned, with added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Fiber, total dietary: 0.6G; Folate, DFE: 1.0UG; Fluoride, F: 11.9UG; Folate, food: 1.0UG; Energy: 251kJ; Total Sugars: 15.2G; Fatty acids, total saturated: 0.001G; Vitamin C, total ascorbic acid: 27.0MG; Thiamin: 0.002MG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Soy protein concentrate, produced by acid wash
+Category: Legumes and Legume Products
+Key Nutrients: Folate, DFE: 340UG; Total Sugars: 20.0G; Fiber, total dietary: 5.5G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Beverages, tea, instant, lemon, with added ascorbic acid
+Category: Beverages
+Key Nutrients: Energy: 1610.0kJ; Folate, DFE: 43.0UG; Total lipid (fat): 0.3G; Carbohydrate, by difference: 97.6G; Energy: 385KCAL; Water: 0.3G; Caffeine: 124MG; Calcium, Ca: 3.0MG; Potassium, K: 217MG; Zinc, Zn: 0.1MG; Isoleucine: 0.003G; Leucine: 0.003G; Lysine: 0.003G
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Juice, apple and grape blend, with added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Fatty acids, total saturated: 0.023G; SFA 14:0: 0.001G; Fiber, total dietary: 0.2G; Vitamin A, IU: 4.0IU; Carotene, beta: 2.0UG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Pear nectar, canned, without added ascorbic acid
+Category: Fruits and Fruit Juices
+Key Nutrients: Carotene, beta: 1.0UG; Vitamin K (phylloquinone): 1.8UG; Vitamin E (alpha-tocopherol): 0.05MG; Lutein + zeaxanthin: 20.0UG; Choline, total: 2.0MG; Folate, DFE: 1.0UG; Folate, food: 1.0UG
+Brain Health Context: omega-3 fatty acids DHA EPA brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: SILK Plus for Bone Health, soymilk
+Category: Legumes and Legume Products
+Key Nutrients: Vitamin D (D2 + D3): 1.2UG; Protein: 2.47G; Ash: 0.64G; Fiber, total dietary: 0.8G; Iron, Fe: 0.44MG; Magnesium, Mg: 16.0MG; Sodium, Na: 39.0MG; Vitamin A, IU: 206IU; Riboflavin: 0.21MG; Folate, total: 10.0UG; Vitamin B-12: 1.23UG; Fatty acids, total saturated: 0.206G; Total lipid (fat): 1.44G; Carbohydrate, by difference: 4.53G; Energy: 41.0KCAL
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Category: Beef Products
+Key Nutrients: Energy: 820kJ; Folate, DFE: 6.0UG; Selenium, Se: 26.0UG; Protein: 12.6G; Ash: 1.58G; Iron, Fe: 2.22MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 386MG; Sodium, Na: 158MG; Copper, Cu: 0.22MG; Manganese, Mn: 0.032MG; Vitamin C, total ascorbic acid: 3.3MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, cooked, soaked and fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Protein: 14.0G; Ash: 3.39G; Energy: 646kJ; Iron, Fe: 1.21MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 384MG; Sodium, Na: 101MG; Copper, Cu: 0.283MG; Manganese, Mn: 0.036MG; Vitamin A, IU: 8.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 1140.0kJ; Folate, DFE: 7.0UG; Niacin: 4.55MG; Pantothenic acid: 1.56MG; Vitamin B-6: 0.23MG; SFA 16:0: 2.74G; SFA 18:0: 2.78G; MUFA 18:1: 3.33G; PUFA 18:2: 0.07G; PUFA 20:4: 0.6G; MUFA 20:1: 0.32G; Fatty acids, total monounsaturated: 4.02G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, cooked, braised
+Category: Pork Products
+Key Nutrients: Energy: 577kJ; Folate, DFE: 4.0UG; Total lipid (fat): 9.51G; Energy: 138KCAL; Water: 75.9G; Calcium, Ca: 9.0MG; Potassium, K: 195MG; Zinc, Zn: 1.48MG; Niacin: 3.33MG; Pantothenic acid: 1.82MG; Vitamin B-6: 0.14MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 891kJ; Folate, DFE: 6.0UG; Protein: 14.5G; Ash: 1.88G; Iron, Fe: 1.07MG; Magnesium, Mg: 18.0MG; Phosphorus, P: 434MG; Sodium, Na: 176MG; Copper, Cu: 0.3MG; Manganese, Mn: 0.044MG; Vitamin C, total ascorbic acid: 15.0MG; Thiamin: 0.15MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes
+Category: Breakfast Cereals
+Key Nutrients: Vitamin E (alpha-tocopherol): 0.99MG; SFA 16:0: 0.224G; SFA 18:0: 0.014G; MUFA 18:1: 0.241G; PUFA 18:2: 0.574G; PUFA 18:3: 0.035G; PUFA 20:4: 0.001G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH VALLEY
+Category: Breakfast Cereals
+Key Nutrients: Water: 3.4G; Ash: 5.53G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Blueberries, raw
+Category: Fruits and Fruit Juices
+Key Nutrients: Iron, Fe: 0.34MG; Magnesium, Mg: 6.18MG; Phosphorus, P: 13.0MG; Potassium, K: 85.6MG; Zinc, Zn: 0.0853MG; Copper, Cu: 0.046MG; Nitrogen: 0.112G; Vitamin C, total ascorbic acid: 8.06MG; Total lipid (fat): 0.306G; Manganese, Mn: 0.423MG; Ash: 0.229G; Glucose: 4.42G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Blueberries, raw
+Category: Fruits and Fruit Juices
+Key Nutrients: Potassium, K: 77.0MG; Sodium, Na: 1.0MG; Vitamin C, total ascorbic acid: 9.7MG; Choline, total: 6.0MG; Betaine: 0.2MG; Energy: 240kJ; Folate, food: 6.0UG; Folate, DFE: 6.0UG; Carbohydrate, by difference: 14.5G; Energy: 57.0KCAL
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Blueberries, dried, sweetened
+Category: Fruits and Fruit Juices
+Key Nutrients: Fatty acids, total saturated: 0.2G; MUFA 16:1: 0.005G; Ash: 0.73G; Energy: 1330.0kJ; Magnesium, Mg: 18.0MG; Phosphorus, P: 36.0MG; Sodium, Na: 3.0MG; Copper, Cu: 0.16MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Blueberries, frozen, sweetened
+Category: Fruits and Fruit Juices
+Key Nutrients: SFA 16:0: 0.006G; SFA 18:0: 0.002G; MUFA 18:1: 0.018G; PUFA 18:2: 0.034G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Muffins, blueberry, dry mix
+Category: Baked Products
+Key Nutrients: Niacin: 1.86MG; SFA 16:0: 0.605G; SFA 18:0: 0.534G; MUFA 18:1: 0.696G; Fatty acids, total monounsaturated: 0.696G; Total lipid (fat): 3.25G; Carbohydrate, by difference: 61.0G; Energy: 293KCAL; Water: 30.2G; Total Sugars: 32.7G; Calcium, Ca: 18.0MG; Potassium, K: 48.0MG; Protein: 3.48G
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Muffins, blueberry, toaster-type
+Category: Baked Products
+Key Nutrients: Lutein + zeaxanthin: 19.0UG; Vitamin E (alpha-tocopherol): 0.91MG; Folic acid: 54.0UG; Folate, total: 65.0UG; Retinol: 94.0UG; Vitamin A, RAE: 94.0UG; Carotene, beta: 3.0UG; Vitamin K (phylloquinone): 19.3UG; Choline, total: 51.7MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Pie fillings, blueberry, canned
+Category: Sweets
+Key Nutrients: Protein: 0.41G; Ash: 0.35G; Fiber, total dietary: 2.6G; Iron, Fe: 0.8MG; Magnesium, Mg: 10.0MG; Phosphorus, P: 12.0MG; Sodium, Na: 12.0MG; Copper, Cu: 0.112MG; Manganese, Mn: 0.215MG; Vitamin A, IU: 22.0IU; Vitamin A, RAE: 1.0UG; Carotene, beta: 13.0UG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Pie, blueberry, commercially prepared
+Category: Baked Products
+Key Nutrients: Fiber, total dietary: 1.0G; Folate, total: 27.0UG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: SILK Blueberry soy yogurt
+Category: Legumes and Legume Products
+Key Nutrients: Total lipid (fat): 1.18G; Carbohydrate, by difference: 17.1G; Energy: 88.0KCAL; Water: 78.2G; Total Sugars: 12.4G; Calcium, Ca: 176MG; Protein: 2.35G; Ash: 1.24G; Fiber, total dietary: 0.6G; Iron, Fe: 0.64MG; Sodium, Na: 15.0MG; Vitamin C, total ascorbic acid: 17.6MG
+Brain Health Context: antioxidants blueberries brain health
+
+
+---
+
+Food: Syrups, table blends, corn, refiner, and sugar
+Category: Sweets
+Key Nutrients: Folate, DFE: 3.0UG; Energy: 1340.0kJ; Niacin: 0.02MG; Pantothenic acid: 0.035MG; Vitamin B-6: 0.009MG; Carbohydrate, by difference: 83.9G; Energy: 319KCAL; Water: 15.6G; Calcium, Ca: 23.0MG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Oil, vegetable, soybean, refined
+Category: Fats and Oils
+Key Nutrients: Vitamin K (phylloquinone): 184UG; Vitamin E (alpha-tocopherol): 8.18MG; Energy: 3700.0kJ; Iron, Fe: 0.02MG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sorghum flour, refined, unenriched
+Category: Cereal Grains and Pasta
+Key Nutrients: Protein: 9.53G; Ash: 0.47G; Energy: 1490.0kJ; Fiber, total dietary: 1.9G; Iron, Fe: 0.97MG; Magnesium, Mg: 31.0MG; Phosphorus, P: 87.0MG; Sodium, Na: 1.0MG; Copper, Cu: 0.009MG; Manganese, Mn: 0.43MG; Vitamin C, total ascorbic acid: 0.6MG; Thiamin: 0.09MG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Egg, white, dried, stabilized, glucose reduced
+Category: Dairy and Egg Products
+Key Nutrients: MUFA 18:1 c: 0.125G; PUFA 18:2 n-6 c,c: 0.045G; Protein: 84.1G; Ash: 5.61G; Energy: 1500.0kJ; Iron, Fe: 0.18MG; Sodium, Na: 1300.0MG; Vitamin B-12: 0.2UG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Egg, whole, dried, stabilized, glucose reduced
+Category: Dairy and Egg Products
+Key Nutrients: Energy: 2570.0kJ; Folate, DFE: 193UG; Retinol: 616UG; Vitamin A, RAE: 616UG; Total lipid (fat): 44.0G; Carbohydrate, by difference: 2.38G; Energy: 615KCAL; Water: 1.87G; Calcium, Ca: 222MG; Potassium, K: 515MG; Zinc, Zn: 5.71MG; Niacin: 0.259MG; Pantothenic acid: 6.71MG; Vitamin B-6: 0.42MG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Oil, industrial, soy, refined, for woks and light frying
+Category: Fats and Oils
+Key Nutrients: Total lipid (fat): 100G
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Egg, white, dried, flakes, stabilized, glucose reduced
+Category: Dairy and Egg Products
+Key Nutrients: Energy: 1470.0kJ; Folate, DFE: 89.0UG; Folate, food: 89.0UG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Egg, white, dried, powder, stabilized, glucose reduced
+Category: Dairy and Egg Products
+Key Nutrients: Folate, food: 96.0UG; Energy: 1570.0kJ
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sugar, turbinado
+Category: Sweets
+Key Nutrients: Carbohydrate, by difference: 99.8G; Energy: 399KCAL; Sucrose: 99.2G; Water: 0.03G; Total Sugars: 99.2G; Calcium, Ca: 12.0MG; Potassium, K: 29.0MG; Zinc, Zn: 0.03MG; Ash: 0.17G
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sugars, brown
+Category: Sweets
+Key Nutrients: 
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sugars, granulated
+Category: Sweets
+Key Nutrients: Energy: 1610.0kJ; Galactose: 0.03G; Iron, Fe: 0.05MG; Magnesium, Mg: 0.3MG; Sodium, Na: 1.0MG; Copper, Cu: 0.007MG; Manganese, Mn: 0.004MG; Total lipid (fat): 0.32G; Energy: 385KCAL; Sucrose: 99.8G
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sugars, granulated
+Category: Sweets
+Key Nutrients: 
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sugars, maple
+Category: Sweets
+Key Nutrients: Iron, Fe: 1.61MG; Magnesium, Mg: 19.0MG; Phosphorus, P: 3.0MG; Sodium, Na: 11.0MG; Copper, Cu: 0.099MG; Manganese, Mn: 4.42MG; Protein: 0.1G; Ash: 0.8G
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sugars, powdered
+Category: Sweets
+Key Nutrients: 
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Cookies, sugar wafer, with creme filling, sugar free
+Category: Baked Products
+Key Nutrients: Folate, DFE: 69.0UG; Folate, total: 42.0UG; Folic acid: 38.0UG; Choline, total: 1.2MG; Fatty acids, total monounsaturated: 12.1G; Fatty acids, total polyunsaturated: 10.7G; SFA 16:0: 2.82G; SFA 18:0: 1.41G; MUFA 18:1: 12.0G; PUFA 18:2: 10.0G; PUFA 18:3: 0.743G; Vitamin E (alpha-tocopherol): 3.08MG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Syrups, sugar free
+Category: Sweets
+Key Nutrients: 
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Candies, sugar-coated almonds
+Category: Sweets
+Key Nutrients: Energy: 1940.0kJ; Energy: 465KCAL; Pantothenic acid: 0.156MG; Vitamin B-6: 0.06MG; Lutein + zeaxanthin: 1.0UG; Zinc, Zn: 1.56MG; Selenium, Se: 1.7UG; MUFA 18:1: 12.0G; PUFA 18:2: 3.9G
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Cookies, sugar, refrigerated dough
+Category: Baked Products
+Key Nutrients: Vitamin K (phylloquinone): 8.8UG; Folate, total: 63.0UG; Retinol: 11.0UG; Vitamin A, RAE: 11.0UG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Peanut spread, reduced sugar
+Category: Legumes and Legume Products
+Key Nutrients: 
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Rhubarb, frozen, cooked, with sugar
+Category: Fruits and Fruit Juices
+Key Nutrients: Fatty acids, total saturated: 0.014G; SFA 16:0: 0.012G; SFA 18:0: 0.001G; MUFA 18:1: 0.01G
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sugar-apples, (sweetsop), raw
+Category: Fruits and Fruit Juices
+Key Nutrients: Energy: 393kJ; Folate, DFE: 14.0UG; Fatty acids, total saturated: 0.048G; SFA 16:0: 0.028G
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Babyfood, grape juice, no sugar, canned
+Category: Baby Foods
+Key Nutrients: Iron, Fe: 0.3MG; Magnesium, Mg: 10.0MG; Phosphorus, P: 11.0MG; Sodium, Na: 10.0MG; Copper, Cu: 0.028MG; Vitamin C, total ascorbic acid: 33.8MG; Thiamin: 0.01MG; Riboflavin: 0.02MG; Niacin: 0.2MG; Vitamin B-6: 0.06MG; Calcium, Ca: 12.0MG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Beverages, chocolate powder, no sugar added
+Category: Beverages
+Key Nutrients: Sodium, Na: 500MG; Total Sugars: 27.3G; Calcium, Ca: 909MG; Potassium, K: 1700.0MG; Zinc, Zn: 13.6MG; Selenium, Se: 21.8UG; Niacin: 25.6MG; Vitamin B-6: 1.82MG; Choline, total: 267MG; Folate, DFE: 7.0UG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Beverages, Energy Drink, sugar free
+Category: Beverages
+Key Nutrients: Vitamin B-6: 0.833MG; Folic acid: 167UG; Folate, DFE: 283UG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Cookies, sugar wafer, chocolate-covered
+Category: Baked Products
+Key Nutrients: Protein: 3.45G; Ash: 1.24G; Energy: 2200.0kJ; Fiber, total dietary: 3.4G; Iron, Fe: 1.24MG; Magnesium, Mg: 45.0MG; Phosphorus, P: 117MG; Sodium, Na: 138MG; Copper, Cu: 0.265MG; Vitamin A, IU: 2.0IU; Retinol: 1.0UG; Vitamin A, RAE: 1.0UG
+Brain Health Context: sugar refined glucose cognitive
+
+
+---
+
+Food: Sweeteners, tabletop, aspartame, EQUAL, packets
+Category: Sweets
+Key Nutrients: Protein: 2.17G; Starch: 8.36G; Energy: 1530.0kJ; Iron, Fe: 0.04MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Ginger root, pickled, canned, with artificial sweetener
+Category: Vegetables and Vegetable Products
+Key Nutrients: Riboflavin: 0.015MG; Folate, total: 1.0UG; Vitamin K (phylloquinone): 2.2UG; Folate, food: 1.0UG; Fatty acids, total trans: 0.029G; Fatty acids, total saturated: 0.037G; SFA 14:0: 0.003G
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beverages, cocoa mix, with aspartame, powder, prepared with water
+Category: Beverages
+Key Nutrients: Total lipid (fat): 0.23G; Thiamin: 0.021MG; Riboflavin: 0.109MG; Niacin: 0.085MG; Pantothenic acid: 0.298MG; Vitamin B-6: 0.025MG; Water: 92.4G; Vitamin A, IU: 1.0IU
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Gelatin desserts, dry mix, reduced calorie, with aspartame
+Category: Sweets
+Key Nutrients: Protein: 15.7G; Ash: 2.18G; Energy: 829kJ; Fiber, total dietary: 0.1G; Iron, Fe: 0.06MG; Magnesium, Mg: 2.0MG; Sodium, Na: 862MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Artificial Blueberry Muffin Mix, dry
+Category: Baked Products
+Key Nutrients: Energy: 1700.0kJ; Total lipid (fat): 8.7G; Carbohydrate, by difference: 77.4G; Energy: 407KCAL; Water: 6.4G; SFA 10:0: 0.005G; SFA 16:0: 0.953G; SFA 18:0: 0.852G; MUFA 18:1: 3.71G; PUFA 18:2: 1.58G; PUFA 18:3: 0.09G; PUFA 20:4: 0.005G; MUFA 20:1: 0.024G; Fatty acids, total monounsaturated: 3.74G; Fatty acids, total polyunsaturated: 1.68G
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Category: Beef Products
+Key Nutrients: Energy: 820kJ; Folate, DFE: 6.0UG; Selenium, Se: 26.0UG; Protein: 12.6G; Ash: 1.58G; Iron, Fe: 2.22MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 386MG; Sodium, Na: 158MG; Copper, Cu: 0.22MG; Manganese, Mn: 0.032MG; Vitamin C, total ascorbic acid: 3.3MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, cooked, soaked and fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Protein: 14.0G; Ash: 3.39G; Energy: 646kJ; Iron, Fe: 1.21MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 384MG; Sodium, Na: 101MG; Copper, Cu: 0.283MG; Manganese, Mn: 0.036MG; Vitamin A, IU: 8.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 1140.0kJ; Folate, DFE: 7.0UG; Niacin: 4.55MG; Pantothenic acid: 1.56MG; Vitamin B-6: 0.23MG; SFA 16:0: 2.74G; SFA 18:0: 2.78G; MUFA 18:1: 3.33G; PUFA 18:2: 0.07G; PUFA 20:4: 0.6G; MUFA 20:1: 0.32G; Fatty acids, total monounsaturated: 4.02G
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, cooked, braised
+Category: Pork Products
+Key Nutrients: Energy: 577kJ; Folate, DFE: 4.0UG; Total lipid (fat): 9.51G; Energy: 138KCAL; Water: 75.9G; Calcium, Ca: 9.0MG; Potassium, K: 195MG; Zinc, Zn: 1.48MG; Niacin: 3.33MG; Pantothenic acid: 1.82MG; Vitamin B-6: 0.14MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 891kJ; Folate, DFE: 6.0UG; Protein: 14.5G; Ash: 1.88G; Iron, Fe: 1.07MG; Magnesium, Mg: 18.0MG; Phosphorus, P: 434MG; Sodium, Na: 176MG; Copper, Cu: 0.3MG; Manganese, Mn: 0.044MG; Vitamin C, total ascorbic acid: 15.0MG; Thiamin: 0.15MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Gelatin desserts, dry mix, reduced calorie, with aspartame, no added sodium
+Category: Sweets
+Key Nutrients: Energy: 1440.0kJ; Folate, DFE: 14.0UG; Carbohydrate, by difference: 33.3G; Energy: 345KCAL; Water: 6.7G; Calcium, Ca: 2.0MG; Potassium, K: 14.0MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water
+Category: Sweets
+Key Nutrients: Energy: 20.0KCAL; Energy: 82.0kJ; Water: 94.7G; Calcium, Ca: 3.0MG; Potassium, K: 1.0MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
+Category: Beverages
+Key Nutrients: Calcium, Ca: 3.0MG; Potassium, K: 8.0MG; Zinc, Zn: 0.01MG; Fluoride, F: 59.8UG; Carbohydrate, by difference: 0.29G; Energy: 2.0KCAL; Energy: 7.0kJ; Copper, Cu: 0.002MG; Manganese, Mn: 0.107MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine
+Category: Beverages
+Key Nutrients: Selenium, Se: 0.1UG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame
+Category: Beverages
+Key Nutrients: Protein: 0.45G; Ash: 10.3G; Sodium, Na: 404MG; Manganese, Mn: 0.001MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Pillsbury, Buttermilk Biscuits, Artificial Flavor, refrigerated dough
+Category: Baked Products
+Key Nutrients: Fatty acids, total trans: 0.59G; Fatty acids, total saturated: 0.42G; Protein: 6.4G; Ash: 3.86G; Energy: 985kJ; Fiber, total dietary: 1.6G; Iron, Fe: 2.6MG; Sodium, Na: 854MG; Total lipid (fat): 2.79G; Carbohydrate, by difference: 47.1G; Energy: 236KCAL
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine
+Category: Beverages
+Key Nutrients: Water: 99.8G; Caffeine: 15.0MG
+Brain Health Context: artificial sweeteners aspartame brain
+
+
+---
+
+Food: Snacks, popcorn, oil-popped, microwave, regular flavor, no trans fat
+Category: Snacks
+Key Nutrients: Carotene, beta: 70.0UG; Carotene, alpha: 46.0UG; Fluoride, F: 6.3UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Oil, vegetable, Natreon canola, high stability, non trans, high oleic (70%)
+Category: Fats and Oils
+Key Nutrients: Energy: 3700.0kJ; Fatty acids, total trans: 0.767G; Fatty acids, total saturated: 6.51G; SFA 14:0: 0.047G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Fat, chicken
+Category: Fats and Oils
+Key Nutrients: Choline, total: 122MG; Energy: 900KCAL; Vitamin D (D2 + D3), International Units: 191IU
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Fat, goose
+Category: Fats and Oils
+Key Nutrients: Energy: 3770.0kJ; Vitamin E (alpha-tocopherol): 2.7MG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Fat, turkey
+Category: Fats and Oils
+Key Nutrients: Choline, total: 122MG; Vitamin D3 (cholecalciferol): 4.8UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Tortilla chips, low fat, baked without fat
+Category: Snacks
+Key Nutrients: Energy: 1880.0kJ; Carbohydrate, by difference: 80.2G; Energy: 448KCAL; Lutein + zeaxanthin: 652UG; Vitamin E (alpha-tocopherol): 0.77MG; Cryptoxanthin, beta: 1.0UG; Vitamin K (phylloquinone): 0.2UG; Vitamin A, IU: 104IU; Vitamin A, RAE: 5.0UG; Carotene, beta: 47.0UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Fat, beef tallow
+Category: Fats and Oils
+Key Nutrients: Choline, total: 79.8MG; Vitamin D (D2 + D3), International Units: 28.0IU; Energy: 902KCAL
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Buttermilk, low fat
+Category: Dairy and Egg Products
+Key Nutrients: Iron, Fe: 0.0132MG; Magnesium, Mg: 11.0MG; Phosphorus, P: 92.2MG; Potassium, K: 158MG; Sodium, Na: 92.5MG; Zinc, Zn: 0.426MG; Copper, Cu: 0.00135MG; Iodine, I: 34.2UG; Fatty acids, total monounsaturated: 0.199G; Thiamin: 0.0485MG; Riboflavin: 0.196MG; Niacin: 0.128MG; Retinol: 36.0UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Animal fat, bacon grease
+Category: Fats and Oils
+Key Nutrients: Vitamin E (alpha-tocopherol): 0.6MG; Choline, total: 42.2MG; Total lipid (fat): 99.5G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Bologna, beef, low fat
+Category: Sausages and Luncheon Meats
+Key Nutrients: Carbohydrate, by difference: 5.2G; Energy: 204KCAL; Calcium, Ca: 9.0MG; Potassium, K: 147MG; Zinc, Zn: 1.83MG; Vitamin D (D2 + D3), International Units: 15.0IU; Niacin: 2.5MG; Vitamin B-6: 0.15MG; Folate, DFE: 5.0UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cheese, cream, fat free
+Category: Dairy and Egg Products
+Key Nutrients: Protein: 15.7G; Ash: 3.77G; Starch: 1.05G; Lactose: 4.84G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cheese, cream, low fat
+Category: Dairy and Egg Products
+Key Nutrients: Vitamin D (D2 + D3), International Units: 11.0IU; Fatty acids, total monounsaturated: 4.0G; Folate, DFE: 19.0UG; SFA 4:0: 0.505G; SFA 6:0: 0.146G; Vitamin D3 (cholecalciferol): 0.3UG; Vitamin D (D2 + D3): 0.3UG; Folate, food: 19.0UG; Vitamin A, IU: 552IU; Vitamin A, RAE: 161UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cheese, monterey, low fat
+Category: Dairy and Egg Products
+Key Nutrients: Total Sugars: 0.56G; Vitamin E (alpha-tocopherol): 0.19MG; Ash: 3.5G; Carotene, beta: 55.0UG; Retinol: 137UG; Vitamin K (phylloquinone): 1.8UG; Vitamin D (D2 + D3), International Units: 16.0IU; Total lipid (fat): 21.6G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cheese, muenster, low fat
+Category: Dairy and Egg Products
+Key Nutrients: Vitamin E (alpha-tocopherol): 0.15MG; Total Sugars: 3.5G; Retinol: 174UG; Ash: 3.7G; Carotene, beta: 8.0UG; Vitamin K (phylloquinone): 1.5UG; Total lipid (fat): 17.6G; Carbohydrate, by difference: 3.5G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cheese, provolone, reduced fat
+Category: Dairy and Egg Products
+Key Nutrients: Total lipid (fat): 17.6G; Carbohydrate, by difference: 3.5G; Water: 50.6G; Vitamin D (D2 + D3), International Units: 13.0IU; SFA 4:0: 0.65G; SFA 6:0: 0.24G; SFA 10:0: 0.32G; SFA 16:0: 5.4G; SFA 18:0: 2.02G; MUFA 18:1: 4.08G; PUFA 18:2: 0.33G; PUFA 18:3: 0.18G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cheese, swiss, low fat
+Category: Dairy and Egg Products
+Key Nutrients: Total Sugars: 1.33G; Vitamin E (alpha-tocopherol): 0.07MG; Retinol: 39.0UG; Vitamin K (phylloquinone): 0.5UG; Ash: 3.5G; Carotene, beta: 13.0UG; Folate, DFE: 6.0UG; Vitamin D (D2 + D3), International Units: 4.0IU
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cookies, oatmeal, reduced fat
+Category: Baked Products
+Key Nutrients: Total lipid (fat): 10.0G; Carbohydrate, by difference: 64.6G; Energy: 365KCAL; Water: 19.5G; Total Sugars: 32.1G; Potassium, K: 274MG; Zinc, Zn: 0.61MG; Selenium, Se: 24.7UG; Vitamin E (alpha-tocopherol): 1.1MG; Lutein + zeaxanthin: 25.0UG; Niacin: 1.54MG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cookies, shortbread, reduced fat
+Category: Baked Products
+Key Nutrients: Tocotrienol, alpha: 0.36MG; Tocotrienol, beta: 0.74MG; Niacin: 3.28MG; Pantothenic acid: 0.321MG; Vitamin B-6: 0.071MG; Choline, total: 1.5MG; Folic acid: 45.0UG; Folate, DFE: 113UG; SFA 6:0: 0.011G; SFA 10:0: 0.211G; SFA 16:0: 0.511G; SFA 18:0: 0.165G; MUFA 18:1: 3.13G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Crackers, cheese, reduced fat
+Category: Baked Products
+Key Nutrients: Sodium, Na: 1170.0MG; Protein: 10.0G; Fiber, total dietary: 3.3G; Iron, Fe: 4.8MG; Fatty acids, total saturated: 3.33G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Crackers, wheat, reduced fat
+Category: Baked Products
+Key Nutrients: Carbohydrate, by difference: 71.5G; Energy: 444KCAL; Vitamin E (alpha-tocopherol): 1.18MG; Lutein + zeaxanthin: 86.0UG; Choline, total: 29.5MG; Folic acid: 100UG; Folate, DFE: 197UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Cream, sour, full fat
+Category: Dairy and Egg Products
+Key Nutrients: Magnesium, Mg: 10.1MG; Phosphorus, P: 102MG; Potassium, K: 154MG; Sodium, Na: 50.0MG; Zinc, Zn: 0.392MG; Fatty acids, total monounsaturated: 3.8G; Iodine, I: 32.8UG; Thiamin: 0.0428MG; Niacin: 0.1MG; Retinol: 152UG; Vitamin B-6: 0.0385MG; Biotin: 1.91UG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Flour, soy, full-fat
+Category: Legumes and Legume Products
+Key Nutrients: Carbohydrate, by difference: 27.9G; Energy: 452KCAL; Protein: 38.6G; Energy: 1890.0kJ; Total lipid (fat): 20.7G; Water: 7.85G; Isoleucine: 1.74G; Leucine: 3.06G; Lysine: 2.14G; Valine: 1.74G; Arginine: 2.94G; Histidine: 0.95G; Aspartic acid: 3.76G; Serine: 2.07G; Niacin: 2.74MG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Frankfurter, beef, low fat
+Category: Sausages and Luncheon Meats
+Key Nutrients: Carbohydrate, by difference: 1.6G; Water: 63.8G; Calcium, Ca: 8.0MG; Potassium, K: 129MG; Zinc, Zn: 1.96MG; Vitamin D (D2 + D3), International Units: 24.0IU; Niacin: 2.3MG; Vitamin B-6: 0.1MG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Pancakes, plain, reduced fat
+Category: Baked Products
+Key Nutrients: PUFA 22:6 n-3 (DHA): 0.003G; MUFA 16:1: 0.011G; Protein: 5.71G; Ash: 1.72G; Energy: 1130.0kJ; Fiber, total dietary: 1.0G; Iron, Fe: 1.71MG; Magnesium, Mg: 16.0MG
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Peanut flour, low fat
+Category: Legumes and Legume Products
+Key Nutrients: Selenium, Se: 7.1UG; Folate, DFE: 133UG; Carbohydrate, by difference: 31.3G; Energy: 428KCAL; Energy: 1790.0kJ; Fiber, total dietary: 15.8G
+Brain Health Context: trans fat inflammation cognitive
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, chocolate, lowfat, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Carotene, beta: 2.0UG; Vitamin D3 (cholecalciferol): 1.1UG; Vitamin D (D2 + D3): 1.1UG; Total Sugars: 9.94G; Choline, total: 17.0MG; Vitamin K (Menaquinone-4): 0.1UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Vitamin A, IU: 394IU; Retinol: 118UG; Vitamin A, RAE: 118UG; Energy: 326kJ; Folate, food: 9.0UG; Vitamin D3 (cholecalciferol): 2.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, chocolate, fat free, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Calcium, Ca: 127MG; Potassium, K: 182MG; Zinc, Zn: 0.41MG; Selenium, Se: 1.9UG; Vitamin E (alpha-tocopherol): 0.04MG; Vitamin D (D2 + D3), International Units: 42.0IU; Niacin: 0.164MG; Pantothenic acid: 0.302MG; Vitamin B-6: 0.024MG; Choline, total: 15.6MG; Folate, DFE: 2.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, dry, nonfat, instant, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Vitamin D (D2 + D3), International Units: 440IU; Vitamin D3 (cholecalciferol): 11.0UG; Vitamin D (D2 + D3): 11.0UG; Folate, DFE: 50.0UG; Vitamin A, IU: 2360.0IU
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, dry, nonfat, regular, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Carotene, beta: 1.0UG; Vitamin K (phylloquinone): 0.1UG; Total Sugars: 52.0G; Vitamin B-6: 0.361MG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, evaporated, 2% fat, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Iron, Fe: 0.19MG; Magnesium, Mg: 24.0MG; Phosphorus, P: 203MG; Sodium, Na: 100MG; Copper, Cu: 0.016MG; Manganese, Mn: 0.006MG; Vitamin A, IU: 192IU; Retinol: 56.0UG; Vitamin A, RAE: 56.0UG; Carotene, beta: 4.0UG; Vitamin D (D2 + D3): 4.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Category: Beef Products
+Key Nutrients: Energy: 820kJ; Folate, DFE: 6.0UG; Selenium, Se: 26.0UG; Protein: 12.6G; Ash: 1.58G; Iron, Fe: 2.22MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 386MG; Sodium, Na: 158MG; Copper, Cu: 0.22MG; Manganese, Mn: 0.032MG; Vitamin C, total ascorbic acid: 3.3MG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, cooked, soaked and fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Protein: 14.0G; Ash: 3.39G; Energy: 646kJ; Iron, Fe: 1.21MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 384MG; Sodium, Na: 101MG; Copper, Cu: 0.283MG; Manganese, Mn: 0.036MG; Vitamin A, IU: 8.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 1140.0kJ; Folate, DFE: 7.0UG; Niacin: 4.55MG; Pantothenic acid: 1.56MG; Vitamin B-6: 0.23MG; SFA 16:0: 2.74G; SFA 18:0: 2.78G; MUFA 18:1: 3.33G; PUFA 18:2: 0.07G; PUFA 20:4: 0.6G; MUFA 20:1: 0.32G; Fatty acids, total monounsaturated: 4.02G
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, cooked, braised
+Category: Pork Products
+Key Nutrients: Energy: 577kJ; Folate, DFE: 4.0UG; Total lipid (fat): 9.51G; Energy: 138KCAL; Water: 75.9G; Calcium, Ca: 9.0MG; Potassium, K: 195MG; Zinc, Zn: 1.48MG; Niacin: 3.33MG; Pantothenic acid: 1.82MG; Vitamin B-6: 0.14MG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 891kJ; Folate, DFE: 6.0UG; Protein: 14.5G; Ash: 1.88G; Iron, Fe: 1.07MG; Magnesium, Mg: 18.0MG; Phosphorus, P: 434MG; Sodium, Na: 176MG; Copper, Cu: 0.3MG; Manganese, Mn: 0.044MG; Vitamin C, total ascorbic acid: 15.0MG; Thiamin: 0.15MG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, canned, evaporated, with added vitamin D and without added vitamin A
+Category: Dairy and Egg Products
+Key Nutrients: Energy: 134KCAL; Vitamin D (D2 + D3), International Units: 79.0IU; Folate, DFE: 8.0UG; Vitamin A, RAE: 65.0UG; Vitamin D3 (cholecalciferol): 2.0UG; Vitamin D (D2 + D3): 2.0UG; Folate, food: 8.0UG; Vitamin A, IU: 233IU
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Theobromine: 23.0MG; Fiber, total dietary: 0.8G; Energy: 83.0KCAL; Choline, total: 17.0MG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, dry, nonfat, instant, without added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Folate, total: 50.0UG; Magnesium, Mg: 117MG; Phosphorus, P: 985MG; Sodium, Na: 549MG; Cholesterol: 18.0MG; Fatty acids, total saturated: 0.47G; SFA 8:0: 0.007G; SFA 12:0: 0.013G
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, dry, nonfat, regular, without added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Folate, DFE: 50.0UG; Vitamin A, IU: 22.0IU
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, fluid, 1% fat, without added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Fatty acids, total monounsaturated: 0.277G; Fatty acids, total polyunsaturated: 0.035G; MUFA 18:1: 0.25G; PUFA 18:2: 0.03G; PUFA 18:3: 0.004G; Carbohydrate, by difference: 4.99G; Energy: 42.0KCAL; Vitamin D (D2 + D3), International Units: 1.0IU; MUFA 16:1: 0.017G; Energy: 177kJ; Folate, food: 5.0UG; Vitamin A, IU: 47.0IU; Vitamin A, RAE: 14.0UG
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D
+Category: Dairy and Egg Products
+Key Nutrients: Potassium, K: 159MG; Zinc, Zn: 0.43MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 103MG; Sodium, Na: 39.0MG; Copper, Cu: 0.001MG; Protein: 3.38G; Ash: 0.8G; Thiamin: 0.057MG; Riboflavin: 0.14MG; Cholesterol: 5.0MG; SFA 8:0: 0.011G; SFA 12:0: 0.026G; SFA 14:0: 0.093G
+Brain Health Context: B vitamins brain neurotransmitter
+
+
+---
+
+Food: Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)
+Category: Legumes and Legume Products
+Key Nutrients: Vitamin E (alpha-tocopherol): 0.01MG; Folate, DFE: 19.0UG; Betaine: 0.4MG; Isoleucine: 0.444G; Leucine: 0.728G; Lysine: 0.462G; Cystine: 0.03G; Valine: 0.455G; Choline, total: 28.1MG; Arginine: 0.716G; Histidine: 0.225G
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)
+Category: Legumes and Legume Products
+Key Nutrients: 
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: SILK Plus for Bone Health, soymilk
+Category: Legumes and Legume Products
+Key Nutrients: Vitamin D (D2 + D3): 1.2UG; Protein: 2.47G; Ash: 0.64G; Fiber, total dietary: 0.8G; Iron, Fe: 0.44MG; Magnesium, Mg: 16.0MG; Sodium, Na: 39.0MG; Vitamin A, IU: 206IU; Riboflavin: 0.21MG; Folate, total: 10.0UG; Vitamin B-12: 1.23UG; Fatty acids, total saturated: 0.206G; Total lipid (fat): 1.44G; Carbohydrate, by difference: 4.53G; Energy: 41.0KCAL
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Category: Beef Products
+Key Nutrients: Energy: 820kJ; Folate, DFE: 6.0UG; Selenium, Se: 26.0UG; Protein: 12.6G; Ash: 1.58G; Iron, Fe: 2.22MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 386MG; Sodium, Na: 158MG; Copper, Cu: 0.22MG; Manganese, Mn: 0.032MG; Vitamin C, total ascorbic acid: 3.3MG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, cooked, soaked and fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Protein: 14.0G; Ash: 3.39G; Energy: 646kJ; Iron, Fe: 1.21MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 384MG; Sodium, Na: 101MG; Copper, Cu: 0.283MG; Manganese, Mn: 0.036MG; Vitamin A, IU: 8.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 1140.0kJ; Folate, DFE: 7.0UG; Niacin: 4.55MG; Pantothenic acid: 1.56MG; Vitamin B-6: 0.23MG; SFA 16:0: 2.74G; SFA 18:0: 2.78G; MUFA 18:1: 3.33G; PUFA 18:2: 0.07G; PUFA 20:4: 0.6G; MUFA 20:1: 0.32G; Fatty acids, total monounsaturated: 4.02G
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, cooked, braised
+Category: Pork Products
+Key Nutrients: Energy: 577kJ; Folate, DFE: 4.0UG; Total lipid (fat): 9.51G; Energy: 138KCAL; Water: 75.9G; Calcium, Ca: 9.0MG; Potassium, K: 195MG; Zinc, Zn: 1.48MG; Niacin: 3.33MG; Pantothenic acid: 1.82MG; Vitamin B-6: 0.14MG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 891kJ; Folate, DFE: 6.0UG; Protein: 14.5G; Ash: 1.88G; Iron, Fe: 1.07MG; Magnesium, Mg: 18.0MG; Phosphorus, P: 434MG; Sodium, Na: 176MG; Copper, Cu: 0.3MG; Manganese, Mn: 0.044MG; Vitamin C, total ascorbic acid: 15.0MG; Thiamin: 0.15MG
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes
+Category: Breakfast Cereals
+Key Nutrients: Vitamin E (alpha-tocopherol): 0.99MG; SFA 16:0: 0.224G; SFA 18:0: 0.014G; MUFA 18:1: 0.241G; PUFA 18:2: 0.574G; PUFA 18:3: 0.035G; PUFA 20:4: 0.001G
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH VALLEY
+Category: Breakfast Cereals
+Key Nutrients: Water: 3.4G; Ash: 5.53G
+Brain Health Context: magnesium brain mental health
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Category: Beef Products
+Key Nutrients: Energy: 820kJ; Folate, DFE: 6.0UG; Selenium, Se: 26.0UG; Protein: 12.6G; Ash: 1.58G; Iron, Fe: 2.22MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 386MG; Sodium, Na: 158MG; Copper, Cu: 0.22MG; Manganese, Mn: 0.032MG; Vitamin C, total ascorbic acid: 3.3MG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, cooked, soaked and fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Protein: 14.0G; Ash: 3.39G; Energy: 646kJ; Iron, Fe: 1.21MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 384MG; Sodium, Na: 101MG; Copper, Cu: 0.283MG; Manganese, Mn: 0.036MG; Vitamin A, IU: 8.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 1140.0kJ; Folate, DFE: 7.0UG; Niacin: 4.55MG; Pantothenic acid: 1.56MG; Vitamin B-6: 0.23MG; SFA 16:0: 2.74G; SFA 18:0: 2.78G; MUFA 18:1: 3.33G; PUFA 18:2: 0.07G; PUFA 20:4: 0.6G; MUFA 20:1: 0.32G; Fatty acids, total monounsaturated: 4.02G
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, cooked, braised
+Category: Pork Products
+Key Nutrients: Energy: 577kJ; Folate, DFE: 4.0UG; Total lipid (fat): 9.51G; Energy: 138KCAL; Water: 75.9G; Calcium, Ca: 9.0MG; Potassium, K: 195MG; Zinc, Zn: 1.48MG; Niacin: 3.33MG; Pantothenic acid: 1.82MG; Vitamin B-6: 0.14MG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 891kJ; Folate, DFE: 6.0UG; Protein: 14.5G; Ash: 1.88G; Iron, Fe: 1.07MG; Magnesium, Mg: 18.0MG; Phosphorus, P: 434MG; Sodium, Na: 176MG; Copper, Cu: 0.3MG; Manganese, Mn: 0.044MG; Vitamin C, total ascorbic acid: 15.0MG; Thiamin: 0.15MG
+Brain Health Context: zinc brain cognitive function
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Category: Beef Products
+Key Nutrients: Energy: 820kJ; Folate, DFE: 6.0UG; Selenium, Se: 26.0UG; Protein: 12.6G; Ash: 1.58G; Iron, Fe: 2.22MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 386MG; Sodium, Na: 158MG; Copper, Cu: 0.22MG; Manganese, Mn: 0.032MG; Vitamin C, total ascorbic acid: 3.3MG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, cooked, soaked and fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Protein: 14.0G; Ash: 3.39G; Energy: 646kJ; Iron, Fe: 1.21MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 384MG; Sodium, Na: 101MG; Copper, Cu: 0.283MG; Manganese, Mn: 0.036MG; Vitamin A, IU: 8.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 1140.0kJ; Folate, DFE: 7.0UG; Niacin: 4.55MG; Pantothenic acid: 1.56MG; Vitamin B-6: 0.23MG; SFA 16:0: 2.74G; SFA 18:0: 2.78G; MUFA 18:1: 3.33G; PUFA 18:2: 0.07G; PUFA 20:4: 0.6G; MUFA 20:1: 0.32G; Fatty acids, total monounsaturated: 4.02G
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, cooked, braised
+Category: Pork Products
+Key Nutrients: Energy: 577kJ; Folate, DFE: 4.0UG; Total lipid (fat): 9.51G; Energy: 138KCAL; Water: 75.9G; Calcium, Ca: 9.0MG; Potassium, K: 195MG; Zinc, Zn: 1.48MG; Niacin: 3.33MG; Pantothenic acid: 1.82MG; Vitamin B-6: 0.14MG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 891kJ; Folate, DFE: 6.0UG; Protein: 14.5G; Ash: 1.88G; Iron, Fe: 1.07MG; Magnesium, Mg: 18.0MG; Phosphorus, P: 434MG; Sodium, Na: 176MG; Copper, Cu: 0.3MG; Manganese, Mn: 0.044MG; Vitamin C, total ascorbic acid: 15.0MG; Thiamin: 0.15MG
+Brain Health Context: probiotics gut brain connection
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, raw
+Category: Beef Products
+Key Nutrients: Niacin: 3.55MG; Pantothenic acid: 2.01MG; Vitamin B-6: 0.226MG; Total lipid (fat): 10.3G; Water: 76.3G; Calcium, Ca: 43.0MG; Potassium, K: 274MG; Zinc, Zn: 1.02MG; Carotene, beta: 88.0UG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Total lipid (fat): 8.03G; Energy: 118KCAL; Water: 78.5G; Calcium, Ca: 4.0MG; Potassium, K: 307MG; Zinc, Zn: 1.1MG; Selenium, Se: 13.5UG; Vitamin E (alpha-tocopherol): 0.87MG; Niacin: 3.81MG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 510kJ; Folate, DFE: 3.0UG; MUFA 20:1: 0.12G; Fatty acids, total monounsaturated: 1.55G; Fatty acids, total polyunsaturated: 0.88G; Niacin: 3.9MG; Pantothenic acid: 0.92MG; Vitamin B-6: 0.29MG; Total lipid (fat): 8.58G; Energy: 122KCAL; Water: 79.2G; Calcium, Ca: 9.0MG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, raw
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 494kJ; Folate, DFE: 3.0UG; Protein: 10.3G; Ash: 1.36G; Vitamin C, total ascorbic acid: 14.0MG; Thiamin: 0.13MG; Riboflavin: 0.26MG; Folate, total: 3.0UG; Vitamin B-12: 12.2UG; Folate, food: 3.0UG; Tryptophan: 0.103G; Threonine: 0.511G; Methionine: 0.227G; Phenylalanine: 0.543G
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Beverages, water, bottled, yumberry, pomegranate with anti-oxidants, zero calories
+Category: Beverages
+Key Nutrients: Carbohydrate, by difference: 1.25G; Energy: 5.0KCAL; Water: 98.8G; Potassium, K: 8.0MG; Vitamin E (alpha-tocopherol): 0.56MG; Niacin: 0.833MG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Spices, turmeric, ground
+Category: Spices and Herbs
+Key Nutrients: Sucrose: 2.38G; Glucose: 0.38G; Total Sugars: 3.21G; Fructose: 0.45G
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, simmered
+Category: Beef Products
+Key Nutrients: Choline, total: 491MG; Vitamin B-12: 10.1UG; Protein: 11.7G; Ash: 1.46G; Iron, Fe: 2.3MG; Magnesium, Mg: 12.0MG; Phosphorus, P: 335MG; Sodium, Na: 108MG; Copper, Cu: 0.23MG; Manganese, Mn: 0.028MG; Vitamin A, IU: 117IU; Vitamin A, RAE: 6.0UG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 607kJ; Folate, DFE: 5.0UG; Protein: 12.6G; Ash: 1.36G; Vitamin C, total ascorbic acid: 12.0MG; Thiamin: 0.11MG; Riboflavin: 0.24MG; Folate, total: 5.0UG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Category: Pork Products
+Key Nutrients: Energy: 531kJ; Folate, DFE: 6.0UG; Vitamin C, total ascorbic acid: 13.5MG; Thiamin: 0.155MG; Riboflavin: 0.275MG; Folate, total: 6.0UG; Vitamin B-12: 2.19UG; Folate, food: 6.0UG; Tryptophan: 0.132G; Threonine: 0.48G; Methionine: 0.204G; Phenylalanine: 0.523G
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, braised
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 569kJ; Folate, DFE: 3.0UG; Niacin: 2.43MG; Pantothenic acid: 1.0MG; Vitamin B-6: 0.17MG; Total lipid (fat): 9.63G; Energy: 136KCAL; Water: 76.9G; Calcium, Ca: 16.0MG; Potassium, K: 214MG; Zinc, Zn: 1.61MG; Isoleucine: 0.467G; Leucine: 0.886G
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Category: Beef Products
+Key Nutrients: Energy: 820kJ; Folate, DFE: 6.0UG; Selenium, Se: 26.0UG; Protein: 12.6G; Ash: 1.58G; Iron, Fe: 2.22MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 386MG; Sodium, Na: 158MG; Copper, Cu: 0.22MG; Manganese, Mn: 0.032MG; Vitamin C, total ascorbic acid: 3.3MG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Lamb, New Zealand, imported, brains, cooked, soaked and fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Protein: 14.0G; Ash: 3.39G; Energy: 646kJ; Iron, Fe: 1.21MG; Magnesium, Mg: 15.0MG; Phosphorus, P: 384MG; Sodium, Na: 101MG; Copper, Cu: 0.283MG; Manganese, Mn: 0.036MG; Vitamin A, IU: 8.0IU; Retinol: 2.0UG; Vitamin A, RAE: 2.0UG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 1140.0kJ; Folate, DFE: 7.0UG; Niacin: 4.55MG; Pantothenic acid: 1.56MG; Vitamin B-6: 0.23MG; SFA 16:0: 2.74G; SFA 18:0: 2.78G; MUFA 18:1: 3.33G; PUFA 18:2: 0.07G; PUFA 20:4: 0.6G; MUFA 20:1: 0.32G; Fatty acids, total monounsaturated: 4.02G
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Pork, fresh, variety meats and by-products, brain, cooked, braised
+Category: Pork Products
+Key Nutrients: Energy: 577kJ; Folate, DFE: 4.0UG; Total lipid (fat): 9.51G; Energy: 138KCAL; Water: 75.9G; Calcium, Ca: 9.0MG; Potassium, K: 195MG; Zinc, Zn: 1.48MG; Niacin: 3.33MG; Pantothenic acid: 1.82MG; Vitamin B-6: 0.14MG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
+
+
+---
+
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Category: Lamb, Veal, and Game Products
+Key Nutrients: Energy: 891kJ; Folate, DFE: 6.0UG; Protein: 14.5G; Ash: 1.88G; Iron, Fe: 1.07MG; Magnesium, Mg: 18.0MG; Phosphorus, P: 434MG; Sodium, Na: 176MG; Copper, Cu: 0.3MG; Manganese, Mn: 0.044MG; Vitamin C, total ascorbic acid: 15.0MG; Thiamin: 0.15MG
+Brain Health Context: curcumin turmeric anti-inflammatory brain
